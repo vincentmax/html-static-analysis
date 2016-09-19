@@ -1,0 +1,17 @@
+{
+  "name": "html-static-analysis",
+  "description": "A tool for detecting hard coding issues in angularJs based projects' HTML files.",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "log4js": "~0.6.15",
+    "htmlparser2": "~3.7.2",
+    "xmlbuilder": "^2.3.0"
+  },
+  "devDependencies": {
+    "xregexp": "^2.0.0"
+  }
+}
